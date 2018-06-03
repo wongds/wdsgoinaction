@@ -1,0 +1,9 @@
+mode: set
+wdsgoinaction\nonrepeatingsubstr\nonrepeating.go:7.30,15.31 4 1
+wdsgoinaction\nonrepeatingsubstr\nonrepeating.go:24.2,24.18 1 1
+wdsgoinaction\nonrepeatingsubstr\nonrepeating.go:15.31,16.55 1 1
+wdsgoinaction\nonrepeatingsubstr\nonrepeating.go:19.3,19.32 1 1
+wdsgoinaction\nonrepeatingsubstr\nonrepeating.go:22.3,22.20 1 1
+wdsgoinaction\nonrepeatingsubstr\nonrepeating.go:16.55,18.4 1 1
+wdsgoinaction\nonrepeatingsubstr\nonrepeating.go:19.32,21.4 1 1
+wdsgoinaction\nonrepeatingsubstr\nonrepeating.go:29.13,38.2 8 0

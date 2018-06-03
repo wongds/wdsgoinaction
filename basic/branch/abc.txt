@@ -1,0 +1,2 @@
+用来进行if的测试
+注意ioutil.reader读取的文件应该是在project目录下，而不是当前目录下
